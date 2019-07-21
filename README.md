@@ -1,0 +1,3 @@
+# mvvm-posts
+Boilerplate example of Android MVVM with Dagger2, RxJava, Retrofit and architecture components 
+This repo contains an android app that uses some fake placeholder API to display posts data. The aim of this project is to is to create a boilerplate android app that uses latest android stack. The code is written completly in Kotlin, follows MVVM architecture and uses Dagger2 for DI, RxJava for backgroud tasks, Retrofit for fetching data from the server, Android's Room DB for storing data locally, databinding, Android's ViewModel and many more. Anyone can clone this repo and start building the features of the app without wasting time to set up the code base.
